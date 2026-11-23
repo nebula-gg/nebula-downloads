@@ -7,18 +7,18 @@
 
     <!-- Latest Version -->
     <item>
-      <title>Nebula v1.6.0</title>
-      <pubDate>Mon, 09 Nov 2026 10:26:26 +0800</pubDate>
-      <sparkle:version>1.6.0</sparkle:version>
+      <title>Nebula v1.6.1</title>
+      <pubDate>Mon, 23 Nov 2026 12:02:15 +0800</pubDate>
+      <sparkle:version>1.6.1</sparkle:version>
       <sparkle:minimumSystemVersion>13</sparkle:minimumSystemVersion>
       <sparkle:description>
         Nebula v1.6.0 introduces new features, bug fixes, and improvements.<br />
       </sparkle:description>
       <enclosure
-        url="https://www.dropbox.com/scl/fi/lv0a5scwbywe4fxj7pz4u/Nebula-1.6.0.dmg?rlkey=1lxrkfnkl0h15hki9c5kuhsdm&amp;dl=1"
-          sparkle:version="1.6.0"
-          sparkle:edSignature="5V6nt4Hm+8Z/ePuQQKFV61BhRHgn1ZGDBVheLZK8A6+i0Nye7xJHT0GOjLC/j3+T499q4CvmJfC9vlIj4v3EBw=="
-          length="80264040"
+        url="https://github.com/nebula-gg/nebula-downloads/releases/download/mac-1.6.1/Nebula-1.6.1.dmg"
+          sparkle:version="1.6.1"
+          sparkle:edSignature="PlbAr5UbH9Gz2l5NQlLs8fSFJWD8cmrXATCRhPa7oehkXQJC7D1KcaBsMhvZzZQwuNc4wL8FgKpEVYmgbxtRCg=="
+          length="80312411"
           type="application/octet-stream" />
     </item>
   </channel>
