@@ -3,7 +3,7 @@
 [Update]
 Name = Nebula Client 1.6.1
 ProductVersion = 1.6.1
-URL = https://api.nebulacloud.gg/download/windows
+URL = https://github.com/nebula-gg/nebula-downloads/releases/download/win-1.6.1/nebula-setup.exe
 Size = 72987496
 ReleaseDate = 23/11/2026
 MD5 = 632960c70c26aee062005d4fdab2c948
