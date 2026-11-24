@@ -1,13 +1,13 @@
 ;aiu;
 
 [Update]
-Name = Nebula Client 1.6.1
-ProductVersion = 1.6.1
-URL = https://github.com/nebula-gg/nebula-downloads/releases/download/win-1.6.1/nebula-setup.exe
-Size = 72987496
-ReleaseDate = 23/11/2026
-MD5 = 632960c70c26aee062005d4fdab2c948
+Name = Nebula Client 1.6.2
+ProductVersion = 1.6.2
+URL = https://github.com/nebula-gg/nebula-downloads/releases/download/win-1.6.2/nebula-setup.exe
+Size = 73087776
+ReleaseDate = 24/11/2026
+MD5 = 0ad72e10de972e9d197911a02321c0af
 ServerFileName = nebula-setup.exe
 Flags = Critical|Sys64
 RegistryKey = HKUD\Software\Nebula Technologies\Nebula Client\Version
-Version = 1.6.1
+Version = 1.6.2
